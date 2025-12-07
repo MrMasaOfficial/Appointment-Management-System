@@ -592,28 +592,3 @@ Found a bug? Please report it by:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💼 Author
-
-**Developed by:** Your Team Name
-**Project Version:** 1.0.0
-**Last Updated:** December 2025
-
-## 🙏 Acknowledgments
-
-- PyQt5 community for excellent GUI framework
-- SQLite for reliable local database
-- All contributors and testers
-
-## 📞 Support
-
-For support, questions, or suggestions:
-- Open an GitHub issue
-- Email: support@example.com
-- Create a discussion in the Discussions tab
-
----
-
-**Made with ❤️ for appointment management**
-
-*Happy scheduling!*
